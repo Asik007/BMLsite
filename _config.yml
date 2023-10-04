@@ -22,6 +22,7 @@ title: BML Lab
 
 description: Our research lab focuses on developing novel solutions to current unmet experimental and clinical needs through applying simple microfabricated devices. These devices leverage beneficial phenomena (e.g. process integration, fast diffusion, or high surface to volume ratio) over multiple scales (e.g. nano, micro, and meso) to effectively leverage the power of scale without becoming overly complex. # this means to ignore newlines until "baseurl:"
   
+domain: asik007.github.io
 baseurl: "BMLsite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EddingtonLab
